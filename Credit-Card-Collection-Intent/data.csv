@@ -1,0 +1,69 @@
+text,label
+"CCE: Hello, I'm calling from the credit card collection department. It appears that you've missed payments for the past three months. Can you share with me what's been going on?
+
+C: Hi, I've been under a lot of stress lately due to personal issues, and I've been struggling to keep up with my finances. It's been difficult to focus on anything else.
+
+CCE: I understand. We offer a program called ""breathing space"" where we provide financial and mental support to customers in situations like yours. Would you be interested in learning more about it?
+
+C: Yes, that would be helpful. Thank you.",breathing_space
+"CCE: Good afternoon, I'm calling from the credit card collection department. It seems you've missed payments for the past three months. Can you explain why?
+
+C: Hi, yes. I've been experiencing significant stress and it's been affecting my ability to manage my finances.
+
+CCE: I understand. Stress can take a toll on one's well-being. We can set up a breathing space for you to give you some time to focus on your mental health. Would you like to proceed with that?
+
+C: Yes, please. That would be much appreciated.
+
+CCE: Thank you for letting me know. I'll arrange a breathing space for you, and we'll ensure that you're supported during this time.",breathing_space
+"CCE: Hello, I'm calling from the credit card collection department regarding your overdue bills. It seems you've missed payments for the past three months. Can you tell me more about your current situation?
+
+C: Hi, yes. Unfortunately, I lost my job a few months ago, and it's been difficult to manage my expenses. I'm struggling to pay off the full amount all at once.
+
+CCE: I understand. We can definitely work out a payment plan for you. How much can you afford to pay each month?
+
+C: I can manage to pay $200 per month until I find a new job.",Setup_payment_plan
+"CCE: Hello, this is Jhon calling from the credit card collection department. Can you explain why you've missed payments for the past three months?
+
+C: Hi, yes. I've been facing financial difficulties after unexpected car repairs, and it's been challenging to manage my expenses.
+
+CCE: I understand. Let's find a solution together. How much can you comfortably pay towards your overdue balance each month?
+
+C: I can manage to pay $220 per month until I'm able to catch up.
+
+CCE: Thank you for providing that information. Let's set up a payment plan based on the agreed amount. I'll arrange monthly payments accordingly.",Setup_payment_plan
+"CCE: Hello, this is Jhon calling from the credit card collection department. Can you provide me with the reason for missing payments for the past three months?
+
+C: Hi, yes. I was out of the country for work and overlooked the payment deadlines.
+
+CCE: I understand. Let's resolve this matter. Would you like to process the payment for the overdue amount during this call?
+
+C: Yes, please. I can make the payment right now.
+
+CCE: Great! Let's proceed with the payment process. I'll provide you with the necessary details.",Process_payment_now
+"CCE: Good afternoon, I'm calling from the credit card collection department. It seems you've missed payments for the past three months. Can you explain why?
+
+C: Hi, yes. I've been traveling for work and missed the payment reminders.
+
+CCE: I understand. Let's resolve this issue promptly. Would you like to process the payment for the overdue amount during this call?
+
+C: Yes, please. I want to clear the outstanding balance immediately.
+
+CCE: Excellent! Let's proceed with the payment. I'll guide you through the process.",Process_payment_now
+"CCE: Good afternoon, I'm calling from the credit card collection department. It seems there have been missed payments on your credit card for the past three months. Can you please explain the situation?
+
+C: Hello, yes. Unfortunately, I experienced a sudden medical emergency that required unexpected expenses. It caused a temporary setback, but I'm now in a position to catch up on my payments.
+
+CCE: I understand. Thank you for sharing. Can you confirm the amount and the date you plan to make the payment?
+
+C: The total amount due is $850, and I'll make the payment by the end of the month.",Promise_to_pay
+"CCE: Hello, this is Jhon calling from the credit card collection department. It seems you've missed payments for the past three months. Can you explain why?
+
+C: Hi, yes. Unfortunately, I experienced a reduction in work hours due to the pandemic, which affected my ability to keep up with my bills. However, I've since regained stable employment and can commit to paying off the balance.
+
+CCE: I'm sorry to hear about the impact the pandemic had on your employment. Many have faced similar challenges during these times. Can you confirm the amount and the date you plan to make the payment?
+
+C: Absolutely. The total amount due is $700, and I'll make the payment by the end of this month.
+
+CCE: Thank you for your cooperation. We understand these are unprecedented times, and we're here to support you in any way we can.
+
+C: Thank you. I appreciate your understanding and assistance.",Promise_to_pay
